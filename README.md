@@ -1,79 +1,78 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF00,100:0D0D0D&height=250&section=header&text=Tai+Tang&fontSize=70&animation=fadeIn&fontColor=00FF00&reversal=false&desc=Full-Stack+Developer+%7C+Java+%7C+JavaScript+%7C+Python+%7C+DevOps&descAlignY=75&descFontSize=24&descColor=22C55E" alt="Header"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Tai+Tang;Xin+chao!+Minh+la+Tai+Tang;Full-Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&height=50&lines=Building+Scalable+Web+Applications;Crafting+Clean+Code+Daily;DevOps+Automation+Enthusiast;Turning+Coffee+Into+Code" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EN%2FVI-Bilingual-22C55E?style=for-the-badge&logo=google-translate&logoColor=white" alt="Bilingual"/>
   <img src="https://img.shields.io/badge/Location-Vietnam-DA251D?style=for-the-badge&logo=map&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B+Years-00FF00?style=for-the-badge&logo=code&logoColor=black" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Projects-50%2B_Completed-0078D6?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </p>
 
 <p align="center">
-  <em>Turning ideas into reality, one line of code at a time</em><br/>
-  <em>Biến ý tưởng thành hiện thực, từng dòng code một</em>
+  <em>Passionate Full-Stack Developer specializing in building robust, scalable web applications and automating development workflows. Always learning, always building.</em>
 </p>
 
 ---
 
-## About Me / Giới thiệu
+## About Me
 
-```yaml
-name: Tăng Vĩnh Tài (Tai Tang)
-role: Full-Stack Developer
-location: Vietnam
-languages: ["Java", "JavaScript", "Python"]
-focus: "Building scalable web applications & DevOps automation"
-motto: "Clean code, clean life"
-```
+I'm a Full-Stack Developer based in Vietnam with a passion for creating efficient, scalable solutions. My journey in software development started with curiosity about how things work on the web, and it has evolved into a career focused on building high-quality applications.
 
-> "The best way to predict the future is to create it." - Peter Drucker<br/>
-> "Cách tốt nhất để dự đoán tương lai là tạo ra nó."
+I specialize in Java/Spring Boot for backend services, React/Node.js for frontend development, and Python for automation tasks. I'm also deeply involved in DevOps practices, ensuring smooth CI/CD pipelines and cloud-native deployments.
+
+When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or optimizing my development workflow.
 
 ---
 
-## Tech Stack / Công nghệ
+## What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,django,docker,kubernetes,git,github,linux,mysql,postgresql,mongodb,aws,html,css,typescript,javascript,redis,nginx&theme=dark&perline=10" alt="Tech Stack"/>
-</p>
-
-### Languages / Ngôn ngữ
-
-| Language | Framework | Experience |
-|----------|-----------|------------|
-| Java | Spring Boot, JPA | Backend APIs, Microservices |
-| JavaScript | React, Node.js | Full-stack Web Apps |
-| Python | Django, Flask | Automation, Data Processing |
-
-### DevOps & Tools
-
-| Tool | Usage |
-|------|-------|
-| Docker | Containerization |
-| Kubernetes | Orchestration |
-| GitHub Actions | CI/CD Pipelines |
-| AWS | Cloud Infrastructure |
+- **Backend Development**: Building RESTful APIs and microservices with Java Spring Boot
+- **Frontend Development**: Creating responsive, interactive UIs with React and modern JavaScript
+- **DevOps & Automation**: Setting up CI/CD pipelines, Docker containerization, and Kubernetes orchestration
+- **Database Design**: Working with MySQL, PostgreSQL, and MongoDB for optimal data management
+- **Cloud Infrastructure**: Deploying and managing applications on AWS and other cloud platforms
 
 ---
 
-## GitHub Stats / Thống kê
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taitang7711&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true" alt="Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitang7711&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117" alt="Langs" width="49%"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,django,docker,kubernetes,git,github,linux,mysql,postgresql,mongodb,aws,html,css,typescript,javascript,redis,nginx,gradle,maven,jenkins&theme=dark&perline=12" alt="Tech Stack"/>
+</p>
+
+### Core Technologies
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Java, JavaScript, Python, TypeScript, HTML5, CSS3 |
+| **Backend** | Spring Boot, Node.js, Express, Django, REST APIs, GraphQL |
+| **Frontend** | React, Next.js, Vue.js, Tailwind CSS, Bootstrap |
+| **Database** | MySQL, PostgreSQL, MongoDB, Redis |
+| **DevOps** | Docker, Kubernetes, GitHub Actions, Jenkins, Nginx |
+| **Cloud** | AWS (EC2, S3, RDS), Azure, Google Cloud |
+| **Tools** | Git, Maven, Gradle, Postman, VS Code, IntelliJ |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taitang7711&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitang7711&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&langs_count=8" alt="Langs" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taitang7711&theme=dark&hide_border=true&background=0d1117&fire=FF6B6B&currStreakNum=00FF00" alt="Streak" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taitang7711&theme=dark&hide_border=true&background=0d1117&fire=FF6B6B&currStreakNum=00FF00&ring=00FF00" alt="Streak" width="80%"/>
 </p>
 
 ---
 
-## Activity Graph / Biểu đồ hoạt động
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=taitang7711&theme=react-dark&hide_border=true&line=00FF00&point=22C55E&area=true&color=00FF00&title_color=22C55E" alt="Activity Graph" width="90%"/>
@@ -81,7 +80,7 @@ motto: "Clean code, clean life"
 
 ---
 
-## Achievements / Thành tích
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=taitang7711&theme=dark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophy" width="90%"/>
@@ -89,7 +88,7 @@ motto: "Clean code, clean life"
 
 ---
 
-## Featured Projects / Dự án nổi bật
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/taitang7711/youtube-music-downloader">
@@ -102,16 +101,44 @@ motto: "Clean code, clean life"
 
 ---
 
-## Currently Learning / Đang học
+## Coding Journey
 
-- Cloud-native architectures / Kiến trúc cloud-native
-- Advanced CI/CD pipelines / Pipeline CI/CD nâng cao
-- Microservices patterns / Patterns microservices
-- Kubernetes orchestration / Điều phối Kubernetes
+```
+2021 ─── Started coding with Java & Spring Boot
+   │
+2022 ─── Expanded to JavaScript & React
+   │
+2023 ─── Dived into Python & DevOps
+   │
+2024 ── Mastered Docker & Kubernetes
+   │
+2025 ─── Building scalable cloud-native apps
+   │
+2026 ─── Currently exploring AI/ML integration
+```
 
 ---
 
-## Connect With Me / Kết nối
+## Currently Learning
+
+- **AI/ML Integration**: Exploring how to integrate machine learning models into web applications
+- **Microservices Architecture**: Deepening knowledge of service mesh and distributed systems
+- **Cloud-Native Development**: Mastering serverless architectures and edge computing
+- **Advanced Kubernetes**: Learning service mesh patterns and GitOps workflows
+
+---
+
+## Fun Facts
+
+- I've written over 500,000 lines of code (and counting!)
+- My favorite IDE is IntelliJ IDEA for Java and VS Code for everything else
+- I believe in the power of clean code and meaningful variable names
+- I'm a coffee enthusiast - can't code without it!
+- I contribute to open-source projects in my free time
+
+---
+
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/taitang7711">
@@ -123,11 +150,14 @@ motto: "Clean code, clean life"
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 ---
 
-## Visitors / Lượt truy cập
+## Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taitang7711&color=00FF00&style=for-the-badge" alt="Profile Views"/>
@@ -137,9 +167,9 @@ motto: "Clean code, clean life"
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF00,100:0D0D0D&height=120&section=footer&text=Thanks+for+visiting!+%2F+Cam+on+ban+da+den!&fontSize=28&animation=fadeIn&fontColor=00FF00&reversal=false" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF00,100:0D0D0D&height=120&section=footer&text=Thanks+for+visiting!+Happy+Coding!&fontSize=28&animation=fadeIn&fontColor=00FF00&reversal=false" alt="Footer"/>
 </p>
 
 <p align="center">
-  <sub>Made with ❤️ by Tăng Vĩnh Tài | © 2026</sub>
+  <sub>Made with ❤️ and lots of ☕ by Tai Tang | © 2026</sub>
 </p>
