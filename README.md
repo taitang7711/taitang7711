@@ -3,54 +3,64 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0078D6&center=true&vCenter=true&width=600&height=60&lines=👋+Xin+chào!+Mình+là+Tăng+Vĩnh+Tài;🚀+Full-Stack+Developer;💻+Java+|+JavaScript+|+Python;+Building+Scalable+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Tai+Tang;Xin+chao!+Minh+la+Tai+Tang;Full-Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🇳_Vietnam-DA251D?style=for-the-badge&logo=flag&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/💼_Full--Stack_Developer-0078D6?style=for-the-badge&logo=github&logoColor=white" alt="Role"/>
-  <img src="https://img.shields.io/badge/_Open_to_Work-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/EN%2FVI-Bilingual-22C55E?style=for-the-badge&logo=google-translate&logoColor=white" alt="Bilingual"/>
+  <img src="https://img.shields.io/badge/Location-Vietnam-DA251D?style=for-the-badge&logo=map&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status"/>
 </p>
 
 <p align="center">
-  <em>✨ Biến ý tưởng thành hiện thực qua từng dòng code ✨</em>
+  <em>Turning ideas into reality, one line of code at a time</em><br/>
+  <em>Biến ý tưởng thành hiện thực, từng dòng code một</em>
 </p>
 
 ---
 
-## 🎯 About Me
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-</p>
+## About Me / Giới thiệu
 
 ```yaml
-name: Tăng Vĩnh Tài
+name: Tăng Vĩnh Tài (Tai Tang)
 role: Full-Stack Developer
-location: Vietnam 🇳
+location: Vietnam
 languages: ["Java", "JavaScript", "Python"]
 focus: "Building scalable web applications & DevOps automation"
 motto: "Clean code, clean life"
 ```
 
+> "The best way to predict the future is to create it." - Peter Drucker<br/>
+> "Cách tốt nhất để dự đoán tương lai là tạo ra nó."
+
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack / Công nghệ
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,django,docker,kubernetes,git,github,linux,mysql,postgresql,mongodb,aws,html,css,typescript,javascript,redis,nginx&theme=dark&perline=10" alt="Tech Stack"/>
 </p>
 
-### 📊 Skill Level
+### Languages / Ngôn ngữ
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitang7711&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&langs_count=8" alt="Languages" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taitang7711&theme=transparent" alt="Profile Details" width="45%"/>
-</p>
+| Language | Framework | Experience |
+|----------|-----------|------------|
+| Java | Spring Boot, JPA | Backend APIs, Microservices |
+| JavaScript | React, Node.js | Full-stack Web Apps |
+| Python | Django, Flask | Automation, Data Processing |
+
+### DevOps & Tools
+
+| Tool | Usage |
+|------|-------|
+| Docker | Containerization |
+| Kubernetes | Orchestration |
+| GitHub Actions | CI/CD Pipelines |
+| AWS | Cloud Infrastructure |
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats / Thống kê
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taitang7711&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true" alt="Stats" width="49%"/>
@@ -58,12 +68,20 @@ motto: "Clean code, clean life"
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taitang7711&theme=dark&hide_border=true&background=0d1117&fire=FF6B6B&currStreakNum=0078D6" alt="Streak" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taitang7711&theme=dark&hide_border=true&background=0d1117&fire=FF6B6B&currStreakNum=00FF00" alt="Streak" width="80%"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## Activity Graph / Biểu đồ hoạt động
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taitang7711&theme=react-dark&hide_border=true&line=00FF00&point=22C55E&area=true&color=00FF00&title_color=22C55E" alt="Activity Graph" width="90%"/>
+</p>
+
+---
+
+## Achievements / Thành tích
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=taitang7711&theme=dark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophy" width="90%"/>
@@ -71,7 +89,7 @@ motto: "Clean code, clean life"
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects / Dự án nổi bật
 
 <p align="center">
   <a href="https://github.com/taitang7711/youtube-music-downloader">
@@ -84,17 +102,16 @@ motto: "Clean code, clean life"
 
 ---
 
-## 📊 Activity Graph
+## Currently Learning / Đang học
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taitang7711&theme=react-dark&hide_border=true&line=0078D6&point=FF6B6B&area=true" alt="Activity Graph" width="90%"/>
-</p>
+- Cloud-native architectures / Kiến trúc cloud-native
+- Advanced CI/CD pipelines / Pipeline CI/CD nâng cao
+- Microservices patterns / Patterns microservices
+- Kubernetes orchestration / Điều phối Kubernetes
 
 ---
 
-
-
-## 📫 Let's Connect
+## Connect With Me / Kết nối
 
 <p align="center">
   <a href="https://github.com/taitang7711">
@@ -110,17 +127,17 @@ motto: "Clean code, clean life"
 
 ---
 
-##  Visitors
+## Visitors / Lượt truy cập
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taitang7711&color=0078D6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaitang7711&count_bg=%230078D6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits"/>
+  <img src="https://komarev.com/ghpvc/?username=taitang7711&color=00FF00&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaitang7711&count_bg=%2300FF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+&fontSize=30&animation=fadeIn&fontColor=ffffff&reversal=false" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF00,100:0D0D0D&height=120&section=footer&text=Thanks+for+visiting!+%2F+Cam+on+ban+da+den!&fontSize=28&animation=fadeIn&fontColor=00FF00&reversal=false" alt="Footer"/>
 </p>
 
 <p align="center">
