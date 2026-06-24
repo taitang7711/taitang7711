@@ -1,175 +1,129 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF00,100:0D0D0D&height=250&section=header&text=Tai+Tang&fontSize=70&animation=fadeIn&fontColor=00FF00&reversal=false&desc=Full-Stack+Developer+%7C+Java+%7C+JavaScript+%7C+Python+%7C+DevOps&descAlignY=75&descFontSize=24&descColor=22C55E" alt="Header"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&height=50&lines=Building+Scalable+Web+Applications;Crafting+Clean+Code+Daily;DevOps+Automation+Enthusiast;Turning+Coffee+Into+Code" alt="Typing SVG"/>
-</h1>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:14532d&height=180&section=header&text=Tai%20Tang&fontSize=52&fontColor=e4e4e7&animation=fadeIn" alt="Tai Tang"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Vietnam-DA251D?style=for-the-badge&logo=map&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Experience-3%2B+Years-00FF00?style=for-the-badge&logo=code&logoColor=black" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Projects-50%2B_Completed-0078D6?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</p>
+<br/>
 
-<p align="center">
-  <em>Passionate Full-Stack Developer specializing in building robust, scalable web applications and automating development workflows. Always learning, always building.</em>
-</p>
+```diff
++ Full-Stack Developer · Java · JavaScript · Python · DevOps
+```
 
----
+<br/>
 
-## About Me
+[![Location](https://img.shields.io/badge/📍_Vietnam-DA251D?style=flat-square)](https://github.com/taitang7711)
+[![Status](https://img.shields.io/badge/Open_to_Work-22c55e?style=flat-square&logo=linkedin&logoColor=white)](https://github.com/taitang7711)
+[![Experience](https://img.shields.io/badge/3%2B_Years-0a0a0a?style=flat-square&logo=codeigniter&logoColor=22c55e)](https://github.com/taitang7711)
 
-I'm a Full-Stack Developer based in Vietnam with a passion for creating efficient, scalable solutions. My journey in software development started with curiosity about how things work on the web, and it has evolved into a career focused on building high-quality applications.
+<br/>
 
-I specialize in Java/Spring Boot for backend services, React/Node.js for frontend development, and Python for automation tasks. I'm also deeply involved in DevOps practices, ensuring smooth CI/CD pipelines and cloud-native deployments.
+*Building scalable web apps, automating workflows, and shipping clean code.*
 
-When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or optimizing my development workflow.
+</div>
 
 ---
 
-## What I Do
+## 👋 About
 
-- **Backend Development**: Building RESTful APIs and microservices with Java Spring Boot
-- **Frontend Development**: Creating responsive, interactive UIs with React and modern JavaScript
-- **DevOps & Automation**: Setting up CI/CD pipelines, Docker containerization, and Kubernetes orchestration
-- **Database Design**: Working with MySQL, PostgreSQL, and MongoDB for optimal data management
-- **Cloud Infrastructure**: Deploying and managing applications on AWS and other cloud platforms
+Full-Stack Developer based in **Vietnam**, focused on robust backends, polished frontends, and reliable DevOps pipelines.
 
----
+I work primarily with **Java / Spring Boot** for services, **React / Node.js** for the web, and **Python** for automation. Outside of feature work, I care about CI/CD, containerization, and cloud-native deployment.
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,django,docker,kubernetes,git,github,linux,mysql,postgresql,mongodb,aws,html,css,typescript,javascript,redis,nginx,gradle,maven,jenkins&theme=dark&perline=12" alt="Tech Stack"/>
-</p>
-
-### Core Technologies
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Java, JavaScript, Python, TypeScript, HTML5, CSS3 |
-| **Backend** | Spring Boot, Node.js, Express, Django, REST APIs, GraphQL |
-| **Frontend** | React, Next.js, Vue.js, Tailwind CSS, Bootstrap |
-| **Database** | MySQL, PostgreSQL, MongoDB, Redis |
-| **DevOps** | Docker, Kubernetes, GitHub Actions, Jenkins, Nginx |
-| **Cloud** | AWS (EC2, S3, RDS), Azure, Google Cloud |
-| **Tools** | Git, Maven, Gradle, Postman, VS Code, IntelliJ |
+> Always learning. Always building.
 
 ---
 
-## GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taitang7711&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitang7711&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&langs_count=8" alt="Langs" width="49%"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,django,ts,docker,kubernetes,git,github,linux,mysql,postgresql,mongodb,aws,redis,nginx&theme=dark&perline=10" alt="Tech Stack"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taitang7711&theme=dark&hide_border=true&background=0d1117&fire=FF6B6B&currStreakNum=00FF00&ring=00FF00" alt="Streak" width="80%"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Languages</b><br/>Java · JS · Python · TS</td>
+    <td align="center" width="25%"><b>Backend</b><br/>Spring Boot · Node · Django</td>
+    <td align="center" width="25%"><b>Frontend</b><br/>React · Next.js · Tailwind</td>
+    <td align="center" width="25%"><b>Infra</b><br/>Docker · K8s · AWS · Nginx</td>
+  </tr>
+</table>
 
 ---
 
-## Activity Graph
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taitang7711&theme=react-dark&hide_border=true&line=00FF00&point=22C55E&area=true&color=00FF00&title_color=22C55E" alt="Activity Graph" width="90%"/>
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=taitang7711&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&icon_color=22c55e&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitang7711&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&langs_count=8" alt="Top Languages"/>
 
-## Achievements
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taitang7711&theme=dark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophy" width="90%"/>
-</p>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=taitang7711&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=22c55e&line=22c55e&point=e4e4e7&area=true&title_color=e4e4e7" alt="Activity Graph"/>
 
----
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/taitang7711/youtube-music-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=youtube-music-downloader&theme=transparent&hide_border=true&bg_color=0d1117&show_owner=true" alt="YT Music Downloader" width="49%"/>
-  </a>
-  <a href="https://github.com/taitang7711/bolt-generated-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=bolt-generated-project&theme=transparent&hide_border=true&bg_color=0d1117&show_owner=true" alt="Bolt Project" width="49%"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## Coding Journey
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/taitang7711/youtube-music-downloader">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=youtube-music-downloader&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&icon_color=22c55e&show_owner=true" alt="youtube-music-downloader"/>
+</a>
+<a href="https://github.com/taitang7711/bolt-generated-project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=bolt-generated-project&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&icon_color=22c55e&show_owner=true" alt="bolt-generated-project"/>
+</a>
+
+</div>
+
+---
+
+## 🗺 Journey
 
 ```
-2021 ─── Started coding with Java & Spring Boot
-   │
-2022 ─── Expanded to JavaScript & React
-   │
-2023 ─── Dived into Python & DevOps
-   │
-2024 ── Mastered Docker & Kubernetes
-   │
-2025 ─── Building scalable cloud-native apps
-   │
-2026 ─── Currently exploring AI/ML integration
+2021  ─  Java & Spring Boot
+2022  ─  JavaScript & React
+2023  ─  Python & DevOps
+2024  ─  Docker & Kubernetes
+2025  ─  Cloud-native applications
+2026  ─  AI / ML integration
 ```
 
 ---
 
-## Currently Learning
+## 📚 Currently Exploring
 
-- **AI/ML Integration**: Exploring how to integrate machine learning models into web applications
-- **Microservices Architecture**: Deepening knowledge of service mesh and distributed systems
-- **Cloud-Native Development**: Mastering serverless architectures and edge computing
-- **Advanced Kubernetes**: Learning service mesh patterns and GitOps workflows
-
----
-
-## Fun Facts
-
-- I've written over 500,000 lines of code (and counting!)
-- My favorite IDE is IntelliJ IDEA for Java and VS Code for everything else
-- I believe in the power of clean code and meaningful variable names
-- I'm a coffee enthusiast - can't code without it!
-- I contribute to open-source projects in my free time
+| Area | Focus |
+|------|-------|
+| **AI / ML** | Integrating models into production web apps |
+| **Microservices** | Service mesh & distributed system patterns |
+| **Cloud-native** | Serverless & edge computing |
+| **Kubernetes** | GitOps & advanced orchestration |
 
 ---
 
-## Let's Connect
+## 🤝 Connect
 
-<p align="center">
-  <a href="https://github.com/taitang7711">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-taitang7711-0a0a0a?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/taitang7711)
+[![Email](https://img.shields.io/badge/Email-Contact-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/your-profile)
+
+</div>
 
 ---
 
-## Visitors
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taitang7711&color=00FF00&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaitang7711&count_bg=%2300FF00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=taitang7711&color=22c55e&style=flat-square&label=views" alt="Profile views"/>
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FF00,100:0D0D0D&height=120&section=footer&text=Thanks+for+visiting!+Happy+Coding!&fontSize=28&animation=fadeIn&fontColor=00FF00&reversal=false" alt="Footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:14532d&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=e4e4e7&animation=fadeIn" alt="Footer"/>
 
-<p align="center">
-  <sub>Made with ❤️ and lots of ☕ by Tai Tang | © 2026</sub>
-</p>
+<sub>Made with ☕ by <b>Tai Tang</b> · © 2026</sub>
+
+</div>
