@@ -1,129 +1,143 @@
-<div align="center">
+<!-- Design Read: developer portfolio for recruiters, dark tech + GitHub Primer language, asymmetric markdown layout -->
+<!-- Dials: VARIANCE 6 / MOTION 5 / DENSITY 4 -->
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:14532d&height=180&section=header&text=Tai%20Tang&fontSize=52&fontColor=e4e4e7&animation=fadeIn" alt="Tai Tang"/>
-
-<br/>
-
-```diff
-+ Full-Stack Developer · Java · JavaScript · Python · DevOps
-```
-
-<br/>
-
-[![Location](https://img.shields.io/badge/📍_Vietnam-DA251D?style=flat-square)](https://github.com/taitang7711)
-[![Status](https://img.shields.io/badge/Open_to_Work-22c55e?style=flat-square&logo=linkedin&logoColor=white)](https://github.com/taitang7711)
-[![Experience](https://img.shields.io/badge/3%2B_Years-0a0a0a?style=flat-square&logo=codeigniter&logoColor=22c55e)](https://github.com/taitang7711)
-
-<br/>
-
-*Building scalable web apps, automating workflows, and shipping clean code.*
-
-</div>
-
----
-
-## 👋 About
-
-Full-Stack Developer based in **Vietnam**, focused on robust backends, polished frontends, and reliable DevOps pipelines.
-
-I work primarily with **Java / Spring Boot** for services, **React / Node.js** for the web, and **Python** for automation. Outside of feature work, I care about CI/CD, containerization, and cloud-native deployment.
-
-> Always learning. Always building.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,django,ts,docker,kubernetes,git,github,linux,mysql,postgresql,mongodb,aws,redis,nginx&theme=dark&perline=10" alt="Tech Stack"/>
-</p>
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="25%"><b>Languages</b><br/>Java · JS · Python · TS</td>
-    <td align="center" width="25%"><b>Backend</b><br/>Spring Boot · Node · Django</td>
-    <td align="center" width="25%"><b>Frontend</b><br/>React · Next.js · Tailwind</td>
-    <td align="center" width="25%"><b>Infra</b><br/>Docker · K8s · AWS · Nginx</td>
+    <td width="62%" valign="top">
+
+### Tai Tang
+
+**Full-Stack Developer**
+
+I build backends with Java and Spring Boot, frontends with React and Node.js, and automation with Python. I also ship the pipelines that get code to production.
+
+<br/>
+
+[![Vietnam](https://img.shields.io/badge/Vietnam-DA251D?style=flat-square)](https://github.com/taitang7711)
+[![Open to work](https://img.shields.io/badge/Open_to_work-3fb950?style=flat-square)](https://github.com/taitang7711)
+[![3+ years](https://img.shields.io/badge/Experience-3%2B_years-161b22?style=flat-square&labelColor=0d1117)](https://github.com/taitang7711)
+
+    </td>
+    <td width="38%" align="right" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=taitang7711&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3fb950&include_all_commits=true&count_private=true" alt="GitHub stats" width="280"/>
+
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Overview
+## Stack
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=taitang7711&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&icon_color=22c55e&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitang7711&layout=compact&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&langs_count=8" alt="Top Languages"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,python,django,ts,docker,kubernetes,git,github,linux,mysql,postgresql,mongodb,aws,redis,nginx&theme=dark&perline=9" alt="Technologies"/>
+
+    </td>
+    <td width="45%" valign="top">
+
+| Layer | Tools |
+|:------|:------|
+| Languages | Java, JavaScript, Python, TypeScript |
+| Backend | Spring Boot, Node.js, Django, REST APIs |
+| Frontend | React, Next.js, Tailwind CSS |
+| Data | MySQL, PostgreSQL, MongoDB, Redis |
+| Infra | Docker, Kubernetes, AWS, Nginx, GitHub Actions |
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=taitang7711&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=22c55e&line=22c55e&point=e4e4e7&area=true&title_color=e4e4e7" alt="Activity Graph"/>
+## Work
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top">
 
 <a href="https://github.com/taitang7711/youtube-music-downloader">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=youtube-music-downloader&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&icon_color=22c55e&show_owner=true" alt="youtube-music-downloader"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=youtube-music-downloader&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3fb950&show_owner=true" alt="youtube-music-downloader" width="100%"/>
 </a>
+
+    </td>
+    <td width="42%" valign="top">
+
 <a href="https://github.com/taitang7711/bolt-generated-project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=bolt-generated-project&theme=transparent&hide_border=true&bg_color=0a0a0a&title_color=e4e4e7&text_color=a1a1aa&icon_color=22c55e&show_owner=true" alt="bolt-generated-project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taitang7711&repo=bolt-generated-project&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3fb950&show_owner=true" alt="bolt-generated-project" width="100%"/>
 </a>
-
-</div>
-
----
-
-## 🗺 Journey
-
-```
-2021  ─  Java & Spring Boot
-2022  ─  JavaScript & React
-2023  ─  Python & DevOps
-2024  ─  Docker & Kubernetes
-2025  ─  Cloud-native applications
-2026  ─  AI / ML integration
-```
-
----
-
-## 📚 Currently Exploring
-
-| Area | Focus |
-|------|-------|
-| **AI / ML** | Integrating models into production web apps |
-| **Microservices** | Service mesh & distributed system patterns |
-| **Cloud-native** | Serverless & edge computing |
-| **Kubernetes** | GitOps & advanced orchestration |
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-taitang7711-0a0a0a?style=for-the-badge&logo=github&logoColor=22c55e)](https://github.com/taitang7711)
-[![Email](https://img.shields.io/badge/Email-Contact-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/your-profile)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=taitang7711&color=22c55e&style=flat-square&label=views" alt="Profile views"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:14532d&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=e4e4e7&animation=fadeIn" alt="Footer"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitang7711&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6" alt="Top languages" width="100%"/>
 
-<sub>Made with ☕ by <b>Tai Tang</b> · © 2026</sub>
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
+
+## Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=taitang7711&theme=react-dark&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=e6edf3&area=true&title_color=e6edf3" alt="Contribution graph"/>
+
+<br/>
+
+## Path
+
+<table>
+  <tr><td width="72"><code>2021</code></td><td>Java and Spring Boot</td></tr>
+  <tr><td><code>2022</code></td><td>JavaScript and React</td></tr>
+  <tr><td><code>2023</code></td><td>Python and DevOps</td></tr>
+  <tr><td><code>2024</code></td><td>Docker and Kubernetes</td></tr>
+  <tr><td><code>2025</code></td><td>Cloud-native applications</td></tr>
+  <tr><td><code>2026</code></td><td>AI and ML integration</td></tr>
+</table>
+
+<br/>
+
+## Now
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+**AI / ML**  
+Wiring models into production web apps.
+
+**Microservices**  
+Service mesh and distributed system patterns.
+
+    </td>
+    <td width="50%" valign="top">
+
+**Cloud-native**  
+Serverless and edge deployment.
+
+**Kubernetes**  
+GitOps and advanced orchestration.
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-@taitang7711-0d1117?style=for-the-badge&logo=github&logoColor=3fb950)](https://github.com/taitang7711)
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/your-profile)
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taitang7711&color=3fb950&style=flat-square&label=profile+views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <sub>Tai Tang · 2026</sub>
+</p>
